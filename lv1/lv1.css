@@ -1,0 +1,120 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+        height: 75px;
+        padding: 0 165px;
+        background-color: white;
+        color: black;
+}
+
+.logo {
+        width: 115px;
+        float: left;
+        padding-right: 15px;
+        padding-top: 20px;
+        padding-bottom: 25px;
+}
+
+.header-logo {
+        float: left;
+        padding-top: 40px;
+        padding-bottom: 25px;
+        font-size: 15px;
+        font-weight: bold;
+}
+
+.login {
+        float: right;
+        border: solid 2px #da6b64;
+        border-radius: 40px;
+        height: 15px;
+        width: 270px;
+        padding: 15px 40px;
+        margin: 16px 0;
+        background-color: #da6b64;
+        font-size: 15px;
+        text-align: center;
+        color: #fff;
+
+}
+
+.main {
+        width: cover;
+        height: 500px;
+        text-align: center;
+        background-image: url(all2.jpg);
+        background-attachment: fixed;
+}
+
+.container2 {
+        padding-top: 100px;
+        padding-bottom: 105px;
+        padding-left: 160px;
+        padding-right: 160px;
+}
+
+.container2 h1 {
+        font-size: 50px;
+        margin-top: 80px;
+        text-align: center;
+        color: red;
+}
+
+.container2 h2 {
+        font-size: 20px;
+        font-weight: bold;
+}
+
+.container2 h3 {
+        font-size: 20px;
+        font-weight: bold;
+}
+
+.logo2 {
+        width: 285px;
+        height: 75px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+}
+
+.contents-one {
+        height: 605px;
+        width: 100%;
+        background-color: #ebb94d;
+        text-align: center;
+        padding-top: 35px;
+        padding-bottom: 40px;
+        padding-right: 50px;
+}
+
+.heading h1 {
+        font-size: 40px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+}
+.heading h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+}
+
+.heading img {
+        float: right;
+        size: 50px;
+}
