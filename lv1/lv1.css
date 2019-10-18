@@ -118,3 +118,7 @@ header {
         float: right;
         size: 50px;
 }
+
+body {
+    display: none;
+}
