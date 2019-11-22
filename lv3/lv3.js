@@ -1,3 +1,3 @@
 function Calculate() {
-    frm1.result.value = (frm1.firstValue.value + frm1.secondValue.value);
+    frm1.result.value = eval(frm1.firstValue.value) + eval(frm1.secondValue.value);
 };
